@@ -1,0 +1,21 @@
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.input__search{
+    height: 1.8em;
+    border: none;
+    box-shadow: -3px 3px 20px 1.5px rgb(132, 127, 127) ;
+    border-radius: 1.5px;
+}
+
+.button__search{
+    height: 2em;
+    width: 5.5em;
+    background-color: rgb(45, 72, 224);
+    color: rgb(233, 226, 213);
+    font-size: .8em;
+    font-weight: 900;
+    border: none;
+}
